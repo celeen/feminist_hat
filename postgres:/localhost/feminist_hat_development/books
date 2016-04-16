@@ -1,0 +1,4 @@
+o:/Lotus::Model::Adapters::Memory::Collection	:@identity:id:
+@name:
+books:@records{i{:
+titleI"How To Be A Woman:ET:authorI"Caitlin Moran;T;ii{;I"The Ethical Slut;T;I"some woman?;T;i:@primary_keyo:;Lotus::Model::Adapters::Memory::Collection::PrimaryKey:@currenti
